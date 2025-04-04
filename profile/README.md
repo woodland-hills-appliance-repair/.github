@@ -3,7 +3,7 @@
 ---
 
 
-![Woodland Hills Appliance Repair](https://appliancerepairwoodlandhillsca.repair/wp-content/uploads/2025/03/logo.svg)
+[![Woodland Hills Appliance Repair](https://appliancerepairwoodlandhillsca.repair/wp-content/uploads/2025/03/logo.svg)](https://appliancerepairwoodlandhillsca.repair)
 
 ---
 
